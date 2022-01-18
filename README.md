@@ -1,6 +1,6 @@
 # Introduction 
 
-
+![](slides_dt.gif)
 
 # Installation and usage : 
 
