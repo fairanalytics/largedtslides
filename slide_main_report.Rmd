@@ -1,0 +1,191 @@
+---
+title: Large dataset report
+author: Fair Analytics
+date: 2022-01-18 09:31:19
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+  yolo: yes
+params:
+  large_dt: NA
+---
+---
+# Table Nr. 1
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[1]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 2
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[2]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 3
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[3]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 4
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[4]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 5
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[5]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 6
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[6]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 7
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[7]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 8
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[8]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 9
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[9]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 10
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[10]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 11
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[11]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 12
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[12]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 13
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[13]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 14
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[14]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 15
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[15]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 16
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[16]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 17
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[17]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 18
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[18]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 19
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[19]]%>%
+DT::datatable()
+```
+
+
+---
+# Table Nr. 20
+
+```{r, warning=FALSE,message=FALSE, echo= FALSE}
+params$large_dt[[20]]%>%
+DT::datatable()
+```
+
+
