@@ -1,6 +1,6 @@
 # Introduction 
 
-Generate a **report** using [rmarkdown](https://rmarkdown.rstudio.com/) using a dataset as an input.
+Generate a **report/slides** based on [rmarkdown](https://rmarkdown.rstudio.com/)  using a dataset as an input.
 
 The current version support supports **[xaringan](https://bookdown.org/yihui/rmarkdown/xaringan.html)**
 In each slide a subset is displayed.
